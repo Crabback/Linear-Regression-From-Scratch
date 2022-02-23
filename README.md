@@ -14,11 +14,11 @@ A linear regression model with both L1 and L2 regularization will be implemented
 ### **Cost Function**
 
 The cost function computes the scalar cost for a given $\theta$ vector. 
-
+```math
 $
 \mathcal{L}({\theta}) = \frac{1}{N}\sum_{i =1}^N (h_{{\theta}}({x}_i) - y_i)^2
 $
-
+```
 where
 
 $h_{{\theta}}({x}_i) = \theta^Tx_i$
