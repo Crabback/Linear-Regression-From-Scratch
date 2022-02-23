@@ -20,7 +20,7 @@ The cost function computes the scalar cost for a given $\theta$ vector.
 
 where
 
-$h_{{\theta}}({x}_i) = \theta^Tx_i$
+<img src="https://latex.codecogs.com/svg.image?h_{{\theta}}({x}_i)&space;=&space;\theta^Tx_i" title="h_{{\theta}}({x}_i) = \theta^Tx_i" />
 
 L1 Regularization Loss:
 
